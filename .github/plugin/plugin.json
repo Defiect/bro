@@ -1,0 +1,23 @@
+{
+  "name": "bro",
+  "description": "Daily AI utilities for plain language, useful facts, clear requests, session recaps, independent decisions, and status boards.",
+  "version": "0.6.0",
+  "author": {
+    "name": "backnotprop",
+    "url": "https://github.com/backnotprop"
+  },
+  "homepage": "https://github.com/backnotprop/bro",
+  "repository": "https://github.com/backnotprop/bro",
+  "keywords": [
+    "plain-language",
+    "briefing",
+    "alignment",
+    "recap",
+    "clean-room",
+    "decision-making",
+    "status",
+    "status-board",
+    "simplify",
+    "skills"
+  ]
+}

@@ -37,6 +37,13 @@ npx skills add backnotprop/bro
 /plugin install bro@bro
 ```
 
+### Copilot CLI plugin
+
+```bash
+copilot plugin marketplace add backnotprop/bro
+copilot plugin install bro@bro
+```
+
 ### Codex plugin
 
 ```bash

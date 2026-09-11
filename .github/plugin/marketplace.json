@@ -1,0 +1,27 @@
+{
+  "name": "bro",
+  "owner": {
+    "name": "backnotprop"
+  },
+  "plugins": [
+    {
+      "name": "bro",
+      "source": "./",
+      "description": "Daily AI utilities for plain language, useful facts, clear requests, session recaps, independent decisions, and status boards.",
+      "version": "0.6.0",
+      "category": "productivity",
+      "keywords": [
+        "plain-language",
+        "briefing",
+        "alignment",
+        "recap",
+        "clean-room",
+        "decision-making",
+        "status",
+        "status-board",
+        "simplify",
+        "skills"
+      ]
+    }
+  ]
+}
